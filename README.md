@@ -1,6 +1,8 @@
 OpenCart-Overclocked
 ====================
 
+[![Join the chat at https://gitter.im/OpenCart-Overclocked/Lobby](https://badges.gitter.im/OpenCart-Overclocked/Lobby.svg)](https://gitter.im/OpenCart-Overclocked/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Opencart Overclocked - Community Edition
 -----------------------------------------
 
